@@ -5,7 +5,7 @@ const Friend = (props) => {
   const {name, email, id} = props.friend;
 
   const friendStyle = {
-    margin: '20px',
+    margin: '21px',
     padding: '20px',
     borderRadius: '20px',
     border: '1px solid black',
